@@ -1,5 +1,9 @@
 # Link-banner task
 
+## Run before scripts
+
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
